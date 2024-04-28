@@ -1,0 +1,9 @@
+Object,xmin,ymin,xmax,ymax,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori,text_extraction
+noiph,52,29,243,85,sovb,43.0,2,CNXH,264.5,4,43.0,264.5,BỘ CÔNG AN QUỸ NGHĨA TÌNH ĐỒNG ĐỘI CÔNG AN NHÂN DÂN
+ngayph,284,93,519,122,tenvb,55.5,3,,0.0,-1,55.5,0.0,"Hà Nội, ngày 025 tháng 0L năm 2022"
+sovb,66,89,221,111,tenvb,63.0,3,ngayph,258.0,1,-1.0,258.0,COLIntermatat COLIntermatat /QĐ-HĐQL
+tenvb,120,131,461,195,khongxd,227.0,5,,0.0,-1,227.0,0.0,Ban hành Quy định sử dụng Quỹ Nghĩa tình đồng đội Công an nhân dân
+CNXH,258,21,566,81,ngayph,56.5,1,,0.0,-1,56.5,0.0,CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+khongxd,23,200,532,580,noinhan,232.0,7,,0.0,-1,232.0,0.0,CHỦ TỊCH HỘI ĐỒNG QUẢN LÝ MAI BỘ TRƯỞNG BỘ CÔNG AN Đại tướng Tô Lâm
+khongxd,251,594,538,789,,0.0,-1,,0.0,-1,0.0,0.0,CHỦ TỊCH HỘI ĐỒNG QUẢN LÝ MAI BỘ TRƯỞNG BỘ CÔNG AN Đại tướng Tô Lâm
+noinhan,5,591,176,653,,0.0,-1,khongxd,304.0,6,0.0,304.0,"Nơi nhận Như điều 3 Lưu: BGĐ, X01(P8)-P8"

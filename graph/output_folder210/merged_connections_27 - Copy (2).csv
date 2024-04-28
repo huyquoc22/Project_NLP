@@ -1,0 +1,11 @@
+Object,xmin,ymin,xmax,ymax,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori,text_extraction
+noiph,77,63,258,113,sovb,48.0,2,ngayph,237.5,1,48.0,237.5,QUỐC HỘI KHOÁ XV ĐOÀN ĐẠI BIỂU QUỐC HỘI THÀNH PHỐ HỒ CHÍ MINH
+ngayph,260,103,550,124,khongxd,147.5,8,,0.0,-1,-1.0,0.0,"Thành phố Hồ Chí Minh, ngày 20 tháng 3 năm 2023"
+sovb,101,126,235,146,tenvb,33.5,3,,0.0,-1,33.5,0.0,Số: 110/ĐBQH-VP
+tenvb,82,147,251,192,khongxd,91.5,8,,0.0,-1,91.5,0.0,"Luật sửa đổi, bồ sung một số điều của Luật Công an nhân dân"
+CNXH,264,26,586,96,ngayph,52.5,1,,0.0,-1,52.5,0.0,CÔNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+den,39,227,160,302,khongxd,136.5,6,khongxd,283.0,8,136.5,283.0,TRƯỜNG ĐẠI HỌC CSND 632 Số 16:12  Ngày ncim Chuyển:
+khongxd,74,327,566,475,noinhan,133.0,9,,0.0,-1,133.0,0.0,- Tuiểna đai học. Canh.8 át. nhân.clâm.
+khongxd,281,482,563,647,,0.0,-1,,0.0,-1,0.0,0.0,- Tuiểna đai học. Canh.8 át. nhân.clâm.
+khongxd,206,201,559,321,khongxd,140.0,6,,0.0,-1,-1.0,0.0,- Tuiểna đai học. Canh.8 át. nhân.clâm.
+noinhan,59,483,237,585,,0.0,-1,khongxd,274.0,7,0.0,274.0,Nơi nhận: - Như trên (kẻm dự thảo Luật); TT. Đoàn ĐBQH TP Phó Văn phòng (QH) Phòng CĩĐBQH (TH) Lưu ÚT

@@ -1,0 +1,9 @@
+Object,xmin,ymin,xmax,ymax,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori,text_extraction
+noiph,79,52,232,91,sovb,39.5,2,CNXH,258.5,4,39.5,258.5,BỘ CÔNG AN TRƯỜNG ĐẠI HỌC CSND
+ngayph,261,102,552,127,tenvb,53.0,3,,0.0,-1,53.0,0.0,"Thành phố Hồ Chí Minh, ngày 12 tháng 6 năm 2023"
+sovb,101,99,210,123,tenvb,56.5,3,ngayph,251.0,1,-1.0,251.0,Số: 1928/TB-TOS
+tenvb,158,142,474,193,khongxd,164.5,5,,0.0,-1,164.5,0.0,V/v tổ chức chấm điểm tổng kết phong trào thi đua ?Vì an ninh Tổ quốc? năm học 2022 ? 2023
+CNXH,252,50,576,94,ngayph,42.5,1,,0.0,-1,42.5,0.0,CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+khongxd,73,201,557,463,noinhan,163.5,7,,0.0,-1,163.5,0.0,"PHIẾU TRƯỞNG Thiếu tướng, GS.TS Trần Thành Hưng"
+khongxd,258,431,559,570,,0.0,-1,,0.0,-1,0.0,0.0,"PHIẾU TRƯỞNG Thiếu tướng, GS.TS Trần Thành Hưng"
+noinhan,63,461,180,530,,0.0,-1,khongxd,193.5,5,0.0,193.5,"Nơi nhận: Ban giám hiệu Các đơn vị Lưu: VT, PCTg"

@@ -1,0 +1,9 @@
+Object,xmin,ymin,xmax,ymax,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori,text_extraction
+noiph,79,57,233,92,sovb,40.0,2,CNXH,261.0,4,40.0,261.0,BỘ CÔNG AN TRƯỜNG ĐẠI HỌC CSND
+ngayph,267,105,546,126,tenvb,57.0,3,,0.0,-1,57.0,0.0,"Thành phố Hồ Chí Minh, ngày 03 tháng 0/ năm 2023"
+sovb,118,103,226,126,tenvb,58.0,3,ngayph,234.5,1,-1.0,234.5,
+tenvb,141,137,494,208,khongxd,232.0,5,,0.0,-1,232.0,0.0,QUYẾT ĐỊNH Về việc công nhận đạt giải cuộc thi viết tìm hiểu 75 năm ngày Truyền thống lực lượng Hậu cần ? Kỹ thuật CAND (25/01/1948 ? 25/01/2023) tại Trường Đại học CSND
+CNXH,268,31,566,95,ngayph,52.5,1,,0.0,-1,52.5,0.0,CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập ? Tự do ? Hạnh phúc
+khongxd,80,229,556,580,noinhan,208.5,7,,0.0,-1,208.5,0.0,"HIỆU TRƯỞNG Thiếu tướng, GS.TS Trần Thành Hưng"
+khongxd,298,583,557,705,,0.0,-1,,0.0,-1,0.0,0.0,"HIỆU TRƯỞNG Thiếu tướng, GS.TS Trần Thành Hưng"
+noinhan,79,586,185,640,,0.0,-1,khongxd,295.5,6,0.0,295.5,"Nơi nhận - Như Điều 3; Lưu: VT, PCT"

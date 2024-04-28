@@ -1,0 +1,11 @@
+xmin,ymin,xmax,ymax,Object,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+104,55,260,106,noiph,sovb,44.0,2,CNXH,230.5,4,44.0,230.5
+290,113,522,136,ngayph,tenvb,34.0,3,NULL,0.0,-1,34.0,0.0
+106,114,239,135,sovb,tenvb,34.0,3,ngayph,233.5,1,34.0,233.5
+53,139,295,178,tenvb,den,84.0,7,noigui,276.5,6,84.0,276.5
+263,41,562,96,CNXH,ngayph,56.0,1,NULL,0.0,-1,56.0,0.0
+16,267,567,512,khongxd,noinhan,176.5,8,NULL,0.0,-1,176.5,0.0
+363,152,538,212,noigui,khongxd,207.5,5,NULL,0.0,-1,-1.0,0.0
+27,215,188,270,den,khongxd,147.0,5,NULL,0.0,-1,147.0,0.0
+66,521,229,611,noinhan,NULL,0.0,-1,khongxd,282.0,9,0.0,282.0
+315,521,544,684,khongxd,NULL,0.0,-1,NULL,0.0,-1,0.0,0.0

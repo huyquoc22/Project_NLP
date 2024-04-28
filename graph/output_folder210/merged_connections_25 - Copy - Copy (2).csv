@@ -1,0 +1,10 @@
+Object,xmin,ymin,xmax,ymax,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori,text_extraction
+noiph,84,75,248,108,sovb,33.5,2,CNXH,249.5,4,33.5,249.5,BỘ CÔNG AN CỤC AN NINH ĐIỀU TRA
+ngayph,339,115,539,138,khongxd,158.5,5,,0.0,-1,-1.0,0.0,"Hà Nội, ngày 07 tháng 4 năm 2023"
+sovb,115,118,217,132,tenvb,16.5,3,ngayph,273.0,1,16.5,-1.0,COLlessnes
+tenvb,85,135,249,148,den,45.5,7,ngayph,272.0,1,45.5,272.0,DIStrouspes
+CNXH,262,45,569,109,ngayph,49.5,1,,0.0,-1,49.5,0.0,CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+khongxd,75,215,521,355,noinhan,107.0,6,,0.0,-1,107.0,0.0,KT. CỤC TRƯỞNG PHÓ CỤC TRƯỞNG Eôn Đại tị Phan Thành Bá
+noinhan,73,356,215,428,,0.0,-1,khongxd,280.5,8,0.0,280.5,Nơi nhận: như trên Các TK (để b/c lãnh đạo bộ) - Đ/c cục trường (để b/c); Lưu: A09 (P1)
+den,14,165,170,209,khongxd,98.0,5,,0.0,-1,98.0,0.0,Số: 173 ĐẾN Ngày.... Ng.4
+khongxd,298,357,551,494,,0.0,-1,,0.0,-1,0.0,0.0,KT. CỤC TRƯỞNG PHÓ CỤC TRƯỞNG Eôn Đại tị Phan Thành Bá

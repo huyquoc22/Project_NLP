@@ -1,0 +1,11 @@
+Object,xmin,ymin,xmax,ymax,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori,text_extraction
+noiph,104,55,260,106,sovb,44.0,2,CNXH,230.5,4,44.0,230.5,BỘ CÔNG AN CỤC CÔNG TÁC ĐẢNG VÀ CÔNG TÁC CHÍNH TRỊ
+ngayph,290,113,522,136,tenvb,34.0,3,,0.0,-1,34.0,0.0,"Hà Nội, ngày 07 tháng 6 năm 2023"
+sovb,106,114,239,135,tenvb,34.0,3,ngayph,233.5,1,34.0,233.5,Số:4160 X03-P3
+tenvb,53,139,295,178,den,84.0,7,noigui,276.5,6,84.0,276.5,"học tập, quản triệt và tuyên truyền Nghị quyết số 36-NQ/TW"
+CNXH,263,41,562,96,ngayph,56.0,1,,0.0,-1,56.0,0.0,CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+khongxd,16,267,567,512,noinhan,176.5,8,,0.0,-1,176.5,0.0,KT. CỤC TRƯỞNG TRƯỞNG Thiếu tướng Đặng Ngọc Bách
+noigui,363,152,538,212,khongxd,207.5,5,,0.0,-1,-1.0,0.0,"Người kỳ x01 Email: molically Sự quan BỘ CÔNG AN Vgca 10, g.07 07.0%) 1441-1 400"
+den,27,215,188,270,khongxd,147.0,5,,0.0,-1,147.0,0.0,số 1381 ĐẾN Ngày:11.1243
+noinhan,66,521,229,611,,0.0,-1,khongxd,282.0,9,0.0,282.0,"Nơi nhận: như trên - TK2 (để báo cáo lãnh đạo bộ); - Đ/c cục trưởng (thay báo cáo); Lưu: VT, P3 (T.150)"
+khongxd,315,521,544,684,,0.0,-1,,0.0,-1,0.0,0.0,KT. CỤC TRƯỞNG TRƯỞNG Thiếu tướng Đặng Ngọc Bách

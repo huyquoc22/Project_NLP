@@ -1,0 +1,9 @@
+Object,xmin,ymin,xmax,ymax,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori,text_extraction
+noiph,62,58,230,96,sovb,30.0,2,CNXH,263.5,4,30.0,263.5,BỘ CÔNG AN TRƯỜNG ĐẠI HỌC CSND
+ngayph,256,97,526,115,tenvb,43.5,3,,0.0,-1,-1.0,0.0,"Thành phố Hồ Chí Minh, ngày/Ltháng 4 năm 2023"
+sovb,98,98,199,116,tenvb,42.5,3,ngayph,242.5,1,42.5,242.5,COLIntermatat
+tenvb,150,121,465,178,khongxd,267.5,5,,0.0,-1,267.5,0.0,QUYẾT ĐỊNH Về thành lập bộ phận đảm bảo chất lượng đảo tạo tại các đơn vị thuộc Trường Đại học Cảnh sát nhân dân
+CNXH,248,31,571,96,ngayph,42.5,1,,0.0,-1,42.5,0.0,CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
+khongxd,76,181,546,653,noinhan,279.0,7,,0.0,-1,279.0,0.0,PHIỆU TRƯỞNG EN TRƯỞNG 2 24 ENT Đại tá Đặng Văn Tám
+khongxd,341,651,556,808,,0.0,-1,,0.0,-1,0.0,0.0,PHIỆU TRƯỞNG EN TRƯỞNG 2 24 ENT Đại tá Đặng Văn Tám
+noinhan,49,658,241,734,,0.0,-1,khongxd,303.5,6,0.0,303.5,"Nơi nhận: Ban Giám hiệu (để chỉ đạo) - Như Điều 3 (để thực hiện); LIU VT, VT,      ĐBCLĐT"
